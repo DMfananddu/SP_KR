@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.2.0" host="www.draw.io" modified="2019-11-04T11:51:12.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="COgliq7C4QwWcv5olq7T" pages="1">
+<mxfile type="github" version="12.2.0" host="www.draw.io" modified="2019-11-04T11:51:48.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="tVjLv52CzOdY4xcgAzxS" pages="1">
   <diagram id="wgFjlGgiPWJB2-E_jUXn" name="Page-1">
     <mxGraphModel grid="1" dx="782" dy="466" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -106,6 +106,9 @@
         </mxCell>
         <mxCell id="krPqXdNdlhYM0oJRgE3l-35" value="НЕТ" parent="1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1">
           <mxGeometry as="geometry" x="330" y="470" width="40" height="20"/>
+        </mxCell>
+        <mxCell id="krPqXdNdlhYM0oJRgE3l-36" value="WRITE S" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="360" y="560" width="80" height="40"/>
         </mxCell>
       </root>
     </mxGraphModel>
