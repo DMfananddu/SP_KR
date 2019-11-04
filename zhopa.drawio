@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.2.0" host="www.draw.io" modified="2019-11-04T11:53:51.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="aAdfV4Jf7G15B5sEIdMw" pages="1">
+<mxfile type="github" version="12.2.0" host="www.draw.io" modified="2019-11-04T11:56:34.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="-u--93VEHBcs8zgPoWNn" pages="1">
   <diagram id="wgFjlGgiPWJB2-E_jUXn" name="Page-1">
     <mxGraphModel grid="1" dx="782" dy="466" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -125,10 +125,10 @@
         <mxCell id="krPqXdNdlhYM0oJRgE3l-36" value="WRITE S" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" x="360" y="540" width="80" height="40"/>
         </mxCell>
-        <mxCell id="krPqXdNdlhYM0oJRgE3l-38" value="" parent="1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="krPqXdNdlhYM0oJRgE3l-38" value="S=F" parent="1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" x="480" y="260" width="80" height="40"/>
         </mxCell>
-        <mxCell id="krPqXdNdlhYM0oJRgE3l-39" value="" parent="1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1">
+        <mxCell id="krPqXdNdlhYM0oJRgE3l-39" value="S=S-Smod4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" x="480" y="330" width="80" height="40"/>
         </mxCell>
         <mxCell id="krPqXdNdlhYM0oJRgE3l-40" value="" parent="1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1">
